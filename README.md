@@ -1,11 +1,14 @@
-### Hey Everyone! 👋
+## Hey Everyone! 👋
 
-<!--
-**paulteeter/paulteeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Paul. Currently I'm a student of Lambda School's Data Science track. I love machine learning and neural networks, leveraging their power for good.
 
-- 🔭 I’m currently working on ... Finishing Lambda School
-- 🌱 I’m currently learning ... Tesseract OCR
-- 👯 I’m looking to collaborate on ... Machine Learning
-- 🤔 I’m looking for help with ... Tesseract OCR
-- ⚡ Fun fact: ... I am a singer/pianist
--->
+
+**Here are some of my skills and interests:**
+- Python
+- FastAPI
+- Tesseract
+- NLP
+- Neural Networks
+
+**Contact Me**
+[LinkedIn Profile](http://linkedin.com/in/paul-teeter)
