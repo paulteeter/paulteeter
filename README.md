@@ -11,4 +11,5 @@ Hi, I'm Paul. Currently I'm a student of Lambda School's Data Science track. I l
 - Neural Networks
 
 **Contact Me**
+
 [LinkedIn Profile](http://linkedin.com/in/paul-teeter)
